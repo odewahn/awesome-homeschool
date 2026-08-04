@@ -63,3 +63,101 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, Andrew Odewahn has waived all copyright and
 related or neighboring rights to this work.
+
+
+## ESA-Funded Online Tutoring Services
+
+Education Scholarship Accounts (ESAs) allow families to redirect public education funds into approved private educational services — including online tutoring, curriculum, and virtual instruction. This is especially impactful for neurodivergent learners who need 1-on-1 support.
+
+### General ESA Tutoring Platforms
+- [ESA Learning Hub](https://esalearninghub.com) - Central hub for ESA resources and approved vendor lists.
+- [Approved ESA Tutoring](https://approvedesatutoring.com) - Curated directory of ESA-approved vendors nationwide.
+- [Online ESA Tutors](https://onlineesatutors.com) - Main portal for ESA-approved online tutoring.
+- [ESA Tutor Doctor](https://esatutordoctor.com) - Expert guidance for navigating ESA programs.
+- [Tutor ESA](https://tutoresa.com) - ESA tutor booking and community platform.
+- [ESA Tutoring Hub](https://esatutoringhub.com) - Community hub for ESA families and educators.
+- [ESA Funded Tutoring](https://esa-fundedtutoring.com) - Guide to maximizing ESA funds for tutoring expenses.
+- [Remote ESA Tutor](https://remoteesatutor.com) - Fully remote ESA-eligible tutoring services.
+- [Online ESA Tutor](https://onlineesatutor.com) - Individual tutor matching for ESA families.
+- [In ESA Tutors](https://inesatutors.com) - Independent ESA-approved tutor network.
+
+### Neurodivergent & Inclusive Tutoring
+- [Neurodivergent Tutors](https://neurodivergenttutors.org) - Specialist tutors for neurodivergent learners.
+- [Neurodivergent Tutors](https://neurodivergenttutors.com) - Matching neurodivergent students with specialized educators.
+- [All Inclusive Tutoring Solutions](https://allinclusivetutoringsolutions.com) - Inclusive tutoring packages for diverse learners.
+- [Executive Study Skills](https://executivestudyskills.com) - Executive function and daily study habit frameworks.
+
+### STEM & Online Instruction
+- [Online STEM Instructor](https://onlinesteminstructor.com) - Remote STEM curriculum and customized lesson plans.
+- [Virtual Engineering Instructor](https://virtualengineeringinstructor.com) - Accessible engineering concepts for virtual learners.
+- [ESA STEM Tutoring](https://esastemtutoring.com) - ESA-funded STEM tutoring programs.
+- [STEM and Executive Tutoring](https://stemandexecutivetutoring.com) - STEM instruction combined with executive function coaching.
+- [STEM and Prep](https://stemandprep.com) - Competitive test prep and STEM resources.
+- [Online Homeschool](https://onlinehomeschool.casa) - Structured online homeschool programs and open curriculum.
+- [American Tutor Online](https://americantutoronline.com) - National directory of certified online tutors.
+- [USA Online Tutor](https://usaonlinetutor.com) - Nationwide online tutoring resource hub.
+
+### State-Specific ESA Programs
+- [West Virginia Hope Scholarship Tutoring](https://wvhopescholarshiptutoring.com) - WV Hope Scholarship resources.
+- [Utah Fits All Tutoring](https://utahfitsalltutoring.com) - Utah Fits All Scholarship tutoring.
+- [Get UFA Tutoring](https://getufatutoring.com) - Utah Fits All booking.
+- [Florida Step Up For Students](https://getstepuptutoring.com) - FL Step Up scholarship tutoring.
+- [Florida Hope Scholarship](https://gethopescholarshiptutoring.com) - FL Hope Scholarship tutoring.
+- [SC ESTF Tutoring](https://scestftutoring.com) - South Carolina Education Scholarship Trust Fund.
+- [Get SC ESTF Tutoring](https://getscestftutoring.com) - ESTF-approved tutoring booking.
+- [NC ESA+ Tutoring](https://ncesaplustutoring.com) - North Carolina ESA+ resources.
+- [Get NC ESA Tutoring](https://getncesatutoring.com) - NC ESA+ booking and navigation.
+- [NH EFA Tutoring](https://nhefatutoring.com) - New Hampshire Education Freedom Accounts.
+- [Book NH EFA Tutoring](https://booknhefatutoring.com) - NH EFA-approved services booking.
+- [Montana ESA Tutoring](https://montanaesatutoring.com) - Montana ESA resources.
+- [Get Montana Tutoring](https://getmontanatutoring.com) - Montana ESA service directory.
+- [Iowa ESA Tutoring](https://iowaesatutoring.com) - Iowa Students First Act tutoring.
+
+
+## ESA-Funded Online Tutoring Services
+
+Education Scholarship Accounts (ESAs) allow families to redirect public education funds into approved private educational services — including online tutoring, curriculum, and virtual instruction. This is especially impactful for neurodivergent learners who need 1-on-1 support.
+
+### General ESA Tutoring Platforms
+- [ESA Learning Hub](https://esalearninghub.com) - Central hub for ESA resources and approved vendor lists.
+- [Approved ESA Tutoring](https://approvedesatutoring.com) - Curated directory of ESA-approved vendors nationwide.
+- [Online ESA Tutors](https://onlineesatutors.com) - Main portal for ESA-approved online tutoring.
+- [ESA Tutor Doctor](https://esatutordoctor.com) - Expert guidance for navigating ESA programs.
+- [Tutor ESA](https://tutoresa.com) - ESA tutor booking and community platform.
+- [ESA Tutoring Hub](https://esatutoringhub.com) - Community hub for ESA families and educators.
+- [ESA Funded Tutoring](https://esa-fundedtutoring.com) - Guide to maximizing ESA funds for tutoring expenses.
+- [Remote ESA Tutor](https://remoteesatutor.com) - Fully remote ESA-eligible tutoring services.
+- [Online ESA Tutor](https://onlineesatutor.com) - Individual tutor matching for ESA families.
+- [In ESA Tutors](https://inesatutors.com) - Independent ESA-approved tutor network.
+
+### Neurodivergent & Inclusive Tutoring
+- [Neurodivergent Tutors](https://neurodivergenttutors.org) - Specialist tutors for neurodivergent learners.
+- [Neurodivergent Tutors](https://neurodivergenttutors.com) - Matching neurodivergent students with specialized educators.
+- [All Inclusive Tutoring Solutions](https://allinclusivetutoringsolutions.com) - Inclusive tutoring packages for diverse learners.
+- [Executive Study Skills](https://executivestudyskills.com) - Executive function and daily study habit frameworks.
+
+### STEM & Online Instruction
+- [Online STEM Instructor](https://onlinesteminstructor.com) - Remote STEM curriculum and customized lesson plans.
+- [Virtual Engineering Instructor](https://virtualengineeringinstructor.com) - Accessible engineering concepts for virtual learners.
+- [ESA STEM Tutoring](https://esastemtutoring.com) - ESA-funded STEM tutoring programs.
+- [STEM and Executive Tutoring](https://stemandexecutivetutoring.com) - STEM instruction combined with executive function coaching.
+- [STEM and Prep](https://stemandprep.com) - Competitive test prep and STEM resources.
+- [Online Homeschool](https://onlinehomeschool.casa) - Structured online homeschool programs and open curriculum.
+- [American Tutor Online](https://americantutoronline.com) - National directory of certified online tutors.
+- [USA Online Tutor](https://usaonlinetutor.com) - Nationwide online tutoring resource hub.
+
+### State-Specific ESA Programs
+- [West Virginia Hope Scholarship Tutoring](https://wvhopescholarshiptutoring.com) - WV Hope Scholarship resources.
+- [Utah Fits All Tutoring](https://utahfitsalltutoring.com) - Utah Fits All Scholarship tutoring.
+- [Get UFA Tutoring](https://getufatutoring.com) - Utah Fits All booking.
+- [Florida Step Up For Students](https://getstepuptutoring.com) - FL Step Up scholarship tutoring.
+- [Florida Hope Scholarship](https://gethopescholarshiptutoring.com) - FL Hope Scholarship tutoring.
+- [SC ESTF Tutoring](https://scestftutoring.com) - South Carolina Education Scholarship Trust Fund.
+- [Get SC ESTF Tutoring](https://getscestftutoring.com) - ESTF-approved tutoring booking.
+- [NC ESA+ Tutoring](https://ncesaplustutoring.com) - North Carolina ESA+ resources.
+- [Get NC ESA Tutoring](https://getncesatutoring.com) - NC ESA+ booking and navigation.
+- [NH EFA Tutoring](https://nhefatutoring.com) - New Hampshire Education Freedom Accounts.
+- [Book NH EFA Tutoring](https://booknhefatutoring.com) - NH EFA-approved services booking.
+- [Montana ESA Tutoring](https://montanaesatutoring.com) - Montana ESA resources.
+- [Get Montana Tutoring](https://getmontanatutoring.com) - Montana ESA service directory.
+- [Iowa ESA Tutoring](https://iowaesatutoring.com) - Iowa Students First Act tutoring.
