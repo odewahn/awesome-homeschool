@@ -28,6 +28,7 @@ Depending on the age and independence of the kid, working in 25 minute focused i
 - [Typing Club](https://www.typingclub.com/) – well, that’s good for typing!
 - [KidNuz](https://www.kidnuz.org/) – a kid-friendly news website that is a great way to start off the day
 - [Scholastic](https://classroommagazines.scholastic.com/support/learnathome.html) -recently announced “learn at home” program for all grades in response to the pandemic.
+- [Scivra](https://www.scivra.com/) – interactive 3D science labs covering high school physics, chemistry and biology, right in the browser
 
 ## Learning a new language
 
