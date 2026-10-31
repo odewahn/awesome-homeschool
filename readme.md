@@ -28,6 +28,7 @@ Depending on the age and independence of the kid, working in 25 minute focused i
 - [Typing Club](https://www.typingclub.com/) – well, that’s good for typing!
 - [KidNuz](https://www.kidnuz.org/) – a kid-friendly news website that is a great way to start off the day
 - [Scholastic](https://classroommagazines.scholastic.com/support/learnathome.html) -recently announced “learn at home” program for all grades in response to the pandemic.
+- [Ripple](https://ripplefocus.github.io/en/) : free screen time app for Android and iPhone (iOS 16+). Set study blocks during the school day so games and short video apps stay locked, while messaging and learning apps keep working. Works offline, no ads, no account.
 
 ## Learning a new language
 
