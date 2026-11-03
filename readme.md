@@ -28,6 +28,7 @@ Depending on the age and independence of the kid, working in 25 minute focused i
 - [Typing Club](https://www.typingclub.com/) – well, that’s good for typing!
 - [KidNuz](https://www.kidnuz.org/) – a kid-friendly news website that is a great way to start off the day
 - [Scholastic](https://classroommagazines.scholastic.com/support/learnathome.html) -recently announced “learn at home” program for all grades in response to the pandemic.
+- [QuizQuip](https://quizquip.com/) – free syllabus-aligned science revision hub for Singapore lower-secondary students (Sec 1-2): chapter notes, quizzes, topical questions and downloadable practice papers, grouped by exam stage
 
 ## Learning a new language
 
