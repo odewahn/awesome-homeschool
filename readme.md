@@ -24,7 +24,7 @@ Depending on the age and independence of the kid, working in 25 minute focused i
 
 - [Common Sense Media](https://www.commonsense.org/education/top-picks/great-videos-and-movies-for-your-classroom) -- a great list where you can pick and choose based on your kids’ age and interests
 - [Khan Academy](https://www.khanacademy.org/) – particularly great for math (any level) and science
-- [Space Atlas](https://saramjh.github.io/space_atlas_student/) – Free interactive astronomy models for exploring Moon phases, Earth seasons and cosmic scale with parent/teacher guidance. No account required.
+- [Space Atlas](https://spaceatlasedu.org/) – Free interactive astronomy models for exploring Moon phases, Earth seasons and cosmic scale with parent/teacher guidance. No account required.
 - [PBS Learning Media](https://ca.pbslearningmedia.org/) – great website with a range of materials, searchable by age and discipline. (Our boys LOVE the Crash Course History series with John Green, but there is just ton available here.)
 - [Typing Club](https://www.typingclub.com/) – well, that’s good for typing!
 - [KidNuz](https://www.kidnuz.org/) – a kid-friendly news website that is a great way to start off the day
