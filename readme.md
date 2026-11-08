@@ -22,6 +22,7 @@ Depending on the age and independence of the kid, working in 25 minute focused i
 
 ## Resources
 
+- [Cursive Generation Practice Sheet Generator](https://cursive-generation.com/practice-sheet) – Free font-based alphabet or custom-word tracing sheets for teacher-guided practice; not a verified stroke-order curriculum, and paid workbooks are separate.
 - [Common Sense Media](https://www.commonsense.org/education/top-picks/great-videos-and-movies-for-your-classroom) -- a great list where you can pick and choose based on your kids’ age and interests
 - [Khan Academy](https://www.khanacademy.org/) – particularly great for math (any level) and science
 - [PBS Learning Media](https://ca.pbslearningmedia.org/) – great website with a range of materials, searchable by age and discipline. (Our boys LOVE the Crash Course History series with John Green, but there is just ton available here.)
