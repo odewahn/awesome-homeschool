@@ -28,6 +28,9 @@ Depending on the age and independence of the kid, working in 25 minute focused i
 - [Typing Club](https://www.typingclub.com/) – well, that’s good for typing!
 - [KidNuz](https://www.kidnuz.org/) – a kid-friendly news website that is a great way to start off the day
 - [Scholastic](https://classroommagazines.scholastic.com/support/learnathome.html) -recently announced “learn at home” program for all grades in response to the pandemic.
+- [CursiveAZ](https://cursiveaz.com/) -- free printable cursive handwriting worksheets A-Z, with stroke-order diagrams and per-letter practice pages
+- [SpellGenie](https://spellgenie.net/) -- free spelling test and dictation tool with Dolch/sight word lists for grades 1-8
+- [MathMill](https://getmathmill.com/) -- free printable math worksheet generator (multiplication, drills) for grades 1-6
 
 ## Learning a new language
 
