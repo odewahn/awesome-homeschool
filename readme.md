@@ -24,6 +24,7 @@ Depending on the age and independence of the kid, working in 25 minute focused i
 
 - [Common Sense Media](https://www.commonsense.org/education/top-picks/great-videos-and-movies-for-your-classroom) -- a great list where you can pick and choose based on your kids’ age and interests
 - [Khan Academy](https://www.khanacademy.org/) – particularly great for math (any level) and science
+- [Space Atlas](https://spaceatlasedu.org/) – Moon phases, Earth seasons and cosmic-scale models for parents and teachers to explore with learners. The site uses GA4 and AdSense; unsupervised browsing by children under 13 is not recommended ([privacy notice](https://spaceatlasedu.org/privacy/)).
 - [PBS Learning Media](https://ca.pbslearningmedia.org/) – great website with a range of materials, searchable by age and discipline. (Our boys LOVE the Crash Course History series with John Green, but there is just ton available here.)
 - [Typing Club](https://www.typingclub.com/) – well, that’s good for typing!
 - [KidNuz](https://www.kidnuz.org/) – a kid-friendly news website that is a great way to start off the day
